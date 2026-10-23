@@ -4,7 +4,7 @@
 ![Обложка игры](docs/images/cover.png)
 
 **Жанр:** adventure  
-**Платформа:** Windows 
+**Платформа:** Windows  
 **Движок:** Unity
 
 **Визуальный стиль:** 2D
